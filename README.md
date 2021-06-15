@@ -6,7 +6,7 @@
 - 🏢 I have a organization [Nosesisaid](https://www.github.com/Nosesisaid)
 - 🔭 I’m currently working on discord bots
 - 🌱 I’m currently learning node.js & python
-- 👯 I’m collaborating whit [@Davodotttsin](https://github.com/Davodotttsin)
+- 👯 I’m collabing whit [@Davodotttsin](https://github.com/Davodotttsin)
 - 💬 Ask me about discord.js & node.js
 - ⚡ Fun fact: I'm not a fish 
 
