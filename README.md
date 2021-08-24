@@ -10,3 +10,6 @@
 - 💬 Ask me about discord.js & node.js
 - ⚡ Fun fact: I'm not a fish 
 
+## My stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vic0005&show_icons=true&locale=fr&theme=tokyonight" alt="vic" />
