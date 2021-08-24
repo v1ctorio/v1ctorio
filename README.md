@@ -12,4 +12,4 @@
 
 ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vic0005&show_icons=true&locale=fr&theme=tokyonight" alt="vic" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorioxd&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="vic" />
