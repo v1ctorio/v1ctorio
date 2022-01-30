@@ -11,5 +11,5 @@
 
 <!-- ## My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorioxd&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="vic" />
+<img align="centerd" src="https://github-readme-stats.vercel.app/api?username=victorioxd&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="vic" />
  -->
