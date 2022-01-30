@@ -13,3 +13,4 @@
 
 <img align="centerd" src="https://github-readme-stats.vercel.app/api?username=victorioxd&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="vic" />
  -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zranx84j3h218lkfyhrl0u8jp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
