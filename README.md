@@ -6,7 +6,7 @@
 
 - 🔭 I’m a human
 - 🌱 I’m currently learning TypScript, ruby & 日本語
-- 💬 Ask me about javaScript
+- 💬 Wanna reach me? vic@nosesisaid.me
 - 🏢 I have an organization, [Nosesisaid](https://www.github.com/Nosesisaid)
 - ⚡ I like language related things (*like learning them or studying their grammar and etimology*), reading, talking to people and listening to music. Oh, I also like programming 😅 
 - ⛽ Probably rn I'm listening to ツユ
