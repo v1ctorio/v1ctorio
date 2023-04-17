@@ -6,6 +6,6 @@
 <!--
 **Vic0005/Vic0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
-- 🔭 I’m a human
+- 🔭 I’m a 15yo human
 - ⚡ I like language related things (*like learning them or studying their grammar and etimology*), reading, talking to people and listening to music. Oh, I also like programming 😅 
 
