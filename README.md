@@ -23,4 +23,4 @@ I’m a 16yo human
 
 ```
 
-[TEST r=test s=Hellow.css alt="Hi there chat"/]
+[TEST r=test; s=Hellow.css; alt=Hi there chat;/]
